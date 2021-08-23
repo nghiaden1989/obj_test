@@ -1,0 +1,1300 @@
+19:47:50 **** Rebuild of configuration Debug for project Test_Obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Test_Obj.o" "..\\src\\Test_Obj.cpp" 
+g++ -o Test_Obj.exe "src\\Test_Obj.o" 
+19:52:45 **** Rebuild of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -o test_obj.exe "src\\test_obj.o" 
+Info: Nothing to build for test_obj
+19:58:19 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ "-LC:\\My_Files\\Project\\Test\\test_obj\\include" -o test_obj.exe "src\\test_obj.o" 
+19:58:46 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+..\src\test_obj.cpp:9:22: fatal error: test_obj.h: No such file or directory
+ #include "test_obj.h"
+                      ^
+compilation terminated.
+20:00:24 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+..\src\test_obj.cpp:9:22: fatal error: test_obj.h: No such file or directory
+ #include "test_obj.h"
+                      ^
+compilation terminated.
+20:00:43 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+..\src\test_obj.cpp:9:22: fatal error: test_obj.h: No such file or directory
+ #include "test_obj.h"
+                      ^
+compilation terminated.
+20:01:15 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+..\src\test_obj.cpp:9:22: fatal error: test_obj.h: No such file or directory
+ #include "test_obj.h"
+                      ^
+compilation terminated.
+20:01:47 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+..\src\test_obj.cpp:9:22: fatal error: test_obj.h: No such file or directory
+ #include "test_obj.h"
+                      ^
+compilation terminated.
+20:02:40 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+..\src\test_obj.cpp:9:22: fatal error: test_obj.h: No such file or directory
+ #include "test_obj.h"
+                      ^
+compilation terminated.
+20:02:49 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+..\src\test_obj.cpp:9:22: fatal error: test_obj.h: No such file or directory
+ #include "test_obj.h"
+                      ^
+compilation terminated.
+20:03:09 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+..\src\test_obj.cpp:9:22: fatal error: test_obj.h: No such file or directory
+ #include "test_obj.h"
+                      ^
+compilation terminated.
+20:03:27 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+..\src\test_obj.cpp:9:22: fatal error: test_obj.h: No such file or directory
+ #include "test_obj.h"
+                      ^
+compilation terminated.
+20:03:31 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+..\src\test_obj.cpp:9:22: fatal error: test_obj.h: No such file or directory
+ #include "test_obj.h"
+                      ^
+compilation terminated.
+20:04:03 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+..\src\test_obj.cpp:9:22: fatal error: test_obj.h: No such file or directory
+ #include "test_obj.h"
+                      ^
+compilation terminated.
+20:06:02 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -o test_obj.exe "src\\test_obj.o" 
+10:32:26 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -o test_obj.exe "src\\test_obj.o" 
+Build not configured correctly
+09:53:08 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -o test_obj.exe "src\\test_obj.o" 
+10:29:47 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+10:31:57 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+Info: Nothing to build for test_obj
+Info: Nothing to build for test_obj
+10:32:49 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+10:40:28 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+10:41:00 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+10:41:49 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+10:49:11 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+In file included from ..\src\exam.cpp:8:0:
+..\src\exam.h:19:15: error: 'string' has not been declared
+  void convert(string inputString);
+               ^~~~~~
+10:49:26 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+In file included from ..\src\exam.cpp:8:0:
+..\src\exam.h:19:15: error: 'String' has not been declared
+  void convert(String inputString);
+               ^~~~~~
+10:49:37 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+In file included from ..\src\test_obj.cpp:9:0:
+..\src\exam.h:19:15: error: 'String' has not been declared
+  void convert(String inputString);
+               ^~~~~~
+10:49:40 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+10:51:18 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp:14:6: error: 'securityExample' has not been declared
+ void securityExample::convert(char* inputString)
+      ^~~~~~~~~~~~~~~
+10:51:42 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+Info: Nothing to build for test_obj
+10:52:34 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+Info: Nothing to build for test_obj
+10:53:05 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp:14:6: error: prototype for 'void securityExample::convert(std::__cxx11::string)' does not match any in class 'securityExample'
+ void securityExample::convert(string inputString)
+      ^~~~~~~~~~~~~~~
+In file included from ..\src\exam.cpp:8:0:
+..\src\exam.h:22:7: error: candidate is: void securityExample::convert(char*)
+  void convert(char* inputString);
+       ^~~~~~~
+10:53:12 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp:14:6: error: prototype for 'void securityExample::convert(std::__cxx11::string)' does not match any in class 'securityExample'
+ void securityExample::convert(string inputString)
+      ^~~~~~~~~~~~~~~
+In file included from ..\src\exam.cpp:8:0:
+..\src\exam.h:22:7: error: candidate is: void securityExample::convert(char*)
+  void convert(char* inputString);
+       ^~~~~~~
+10:53:20 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+Info: Nothing to build for test_obj
+10:54:17 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+10:55:35 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp:14:37: error: no 'std::__cxx11::string securityExample::getTime()' member function declared in class 'securityExample'
+ string securityExample::getTime(void)
+                                     ^
+10:55:54 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'std::__cxx11::string securityExample::getTime()':
+..\src\exam.cpp:17:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+10:58:30 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+11:05:05 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::convert(std::__cxx11::string)':
+..\src\exam.cpp:22:23: error: 'str' was not declared in this scope
+  char *token = strtok(str, "-");
+                       ^~~
+..\src\exam.cpp:22:8: warning: unused variable 'token' [-Wunused-variable]
+  char *token = strtok(str, "-");
+        ^~~~~
+11:05:43 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::convert(std::__cxx11::string)':
+..\src\exam.cpp:22:39: error: cannot convert 'std::__cxx11::string {aka std::__cxx11::basic_string<char>}' to 'char*' for argument '1' to 'char* strtok(char*, const char*)'
+  char *token = strtok(inputString, "-");
+                                       ^
+..\src\exam.cpp:22:8: warning: unused variable 'token' [-Wunused-variable]
+  char *token = strtok(inputString, "-");
+        ^~~~~
+11:06:12 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::convert(char*)':
+..\src\exam.cpp:22:8: warning: unused variable 'token' [-Wunused-variable]
+  char *token = strtok(inputString, "-");
+        ^~~~~
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+11:06:39 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::convert(std::__cxx11::string)':
+..\src\exam.cpp:22:39: error: cannot convert 'std::__cxx11::string {aka std::__cxx11::basic_string<char>}' to 'char*' for argument '1' to 'char* strtok(char*, const char*)'
+  char *token = strtok(inputString, "-");
+                                       ^
+..\src\exam.cpp:22:8: warning: unused variable 'token' [-Wunused-variable]
+  char *token = strtok(inputString, "-");
+        ^~~~~
+11:07:09 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::convert(char*)':
+..\src\exam.cpp:22:8: warning: unused variable 'token' [-Wunused-variable]
+  char *token = strtok(inputString, "-");
+        ^~~~~
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+11:09:42 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+11:11:08 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+11:11:48 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+..\src\test_obj.cpp: In function 'int main()':
+..\src\test_obj.cpp:17:41: warning: ISO C++ forbids converting a string constant to 'char*' [-Wwrite-strings]
+  code.convert("Mon Aug 23 10:40:38 2021")
+                                         ^
+..\src\test_obj.cpp:18:2: error: expected ';' before 'return'
+  return 0;
+  ^~~~~~
+11:11:57 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+..\src\test_obj.cpp: In function 'int main()':
+..\src\test_obj.cpp:17:41: warning: ISO C++ forbids converting a string constant to 'char*' [-Wwrite-strings]
+  code.convert("Mon Aug 23 10:40:38 2021");
+                                         ^
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+11:12:36 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp:20:6: error: prototype for 'void securityExample::convert(char*)' does not match any in class 'securityExample'
+ void securityExample::convert(char* inputString)
+      ^~~~~~~~~~~~~~~
+In file included from ..\src\exam.cpp:8:0:
+..\src\exam.h:22:7: error: candidate is: void securityExample::convert(const char*)
+  void convert(const char* inputString);
+       ^~~~~~~
+11:13:05 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+..\src\test_obj.cpp: In function 'int main()':
+..\src\test_obj.cpp:17:15: error: expected primary-expression before 'char'
+  code.convert(char*("Mon Aug 23 10:40:38 2021"));
+               ^~~~
+11:13:31 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+..\src\test_obj.cpp: In function 'int main()':
+..\src\test_obj.cpp:17:7: error: 'class securityExample' has no member named 'conver'; did you mean 'convert'?
+  code.conver("Mon Aug 23 10:40:38 2021");
+       ^~~~~~
+11:13:46 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+..\src\test_obj.cpp: In function 'int main()':
+..\src\test_obj.cpp:17:41: warning: ISO C++ forbids converting a string constant to 'char*' [-Wwrite-strings]
+  code.convert("Mon Aug 23 10:40:38 2021");
+                                         ^
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+11:14:17 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+In file included from ..\src\exam.cpp:8:0:
+..\src\exam.h:22:2: error: 'string' does not name a type
+  string getTime(void);
+  ^~~~~~
+..\src\exam.cpp:14:1: error: 'string' does not name a type
+ string securityExample::getTime(void)
+ ^~~~~~
+11:14:47 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+..\src\test_obj.cpp: In function 'int main()':
+..\src\test_obj.cpp:17:41: warning: ISO C++ forbids converting a string constant to 'char*' [-Wwrite-strings]
+  code.convert("Mon Aug 23 10:40:38 2021");
+                                         ^
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+11:15:39 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+..\src\test_obj.cpp: In function 'int main()':
+..\src\test_obj.cpp:17:41: warning: ISO C++ forbids converting a string constant to 'char*' [-Wwrite-strings]
+  code.convert("Mon-Aug-23-10:40:38-2021");
+                                         ^
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+11:16:42 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+11:17:17 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+11:18:45 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+11:19:13 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+..\src\test_obj.cpp: In function 'int main()':
+..\src\test_obj.cpp:20:41: warning: ISO C++ forbids converting a string constant to 'char*' [-Wwrite-strings]
+  code.convert("Mon-Aug-23-10:40:38-2021");
+                                         ^
+..\src\test_obj.cpp:19:7: warning: unused variable 'str' [-Wunused-variable]
+  char str[] = "Mon-Aug-23-10:40:38-2021";
+       ^~~
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+11:23:00 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::test()':
+..\src\exam.cpp:15:17: error: no matching function for call to 'securityExample::convert(<unresolved overloaded function type>)'
+  convert(getTime);
+                 ^
+In file included from ..\src\exam.cpp:8:0:
+..\src\exam.h:22:7: note: candidate: void securityExample::convert(char*)
+  void convert(char* inputString);
+       ^~~~~~~
+..\src\exam.h:22:7: note:   no known conversion for argument 1 from '<unresolved overloaded function type>' to 'char*'
+11:24:28 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+In file included from ..\src\exam.cpp:8:0:
+..\src\exam.h:21:27: error: expected ';' at end of member declaration
+  void getTime(char* buffer)
+                           ^
+..\src\exam.cpp: In member function 'void securityExample::test()':
+..\src\exam.cpp:15:17: error: no matching function for call to 'securityExample::convert(<unresolved overloaded function type>)'
+  convert(getTime);
+                 ^
+In file included from ..\src\exam.cpp:8:0:
+..\src\exam.h:22:7: note: candidate: void securityExample::convert(char*)
+  void convert(char* inputString);
+       ^~~~~~~
+..\src\exam.h:22:7: note:   no known conversion for argument 1 from '<unresolved overloaded function type>' to 'char*'
+11:24:47 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+In file included from ..\src\exam.cpp:8:0:
+..\src\exam.h:21:27: error: expected ';' at end of member declaration
+  void getTime(char* buffer)
+                           ^
+11:25:14 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+11:25:52 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+11:27:20 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+11:31:52 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+11:32:41 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+11:33:32 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+11:34:13 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+11:35:12 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+11:36:40 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+Info: Nothing to build for test_obj
+11:38:15 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::convert(char*)':
+..\src\exam.cpp:29:7: warning: unused variable 'str' [-Wunused-variable]
+  char str[] = "Mon Aug 23 10:40:38 2021";
+       ^~~
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+11:39:37 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::convert(char*)':
+..\src\exam.cpp:29:7: warning: unused variable 'str' [-Wunused-variable]
+  char str[] = "Mon Aug 23 10:40:38 2021";
+       ^~~
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+11:40:20 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::convert(char*)':
+..\src\exam.cpp:29:7: warning: unused variable 'str' [-Wunused-variable]
+  char str[] = "Mon Aug 23 10:40:38 2021";
+       ^~~
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+11:41:10 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::convert(char*)':
+..\src\exam.cpp:30:7: warning: unused variable 'str' [-Wunused-variable]
+  char str[] = "Mon Aug 23 10:40:38 2021";
+       ^~~
+..\src\exam.cpp: In member function 'void securityExample::test()':
+..\src\exam.cpp:17:19: warning: 'timeBuff' is used uninitialized in this function [-Wuninitialized]
+  getTime(timeBuff);
+                   ^
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+Info: Nothing to build for test_obj
+11:42:35 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::convert(char*)':
+..\src\exam.cpp:32:7: warning: unused variable 'str' [-Wunused-variable]
+  char str[] = "Mon Aug 23 10:40:38 2021";
+       ^~~
+..\src\exam.cpp: In member function 'void securityExample::test()':
+..\src\exam.cpp:17:19: warning: 'timeBuff' is used uninitialized in this function [-Wuninitialized]
+  getTime(timeBuff);
+                   ^
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+11:43:37 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::convert(char*)':
+..\src\exam.cpp:30:7: warning: unused variable 'str' [-Wunused-variable]
+  char str[] = "Mon Aug 23 10:40:38 2021";
+       ^~~
+..\src\exam.cpp: In member function 'void securityExample::test()':
+..\src\exam.cpp:17:19: warning: 'timeBuff' is used uninitialized in this function [-Wuninitialized]
+  getTime(timeBuff);
+                   ^
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+Info: Nothing to build for test_obj
+11:44:20 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::test()':
+..\src\exam.cpp:17:19: warning: 'timeBuff' is used uninitialized in this function [-Wuninitialized]
+  getTime(timeBuff);
+                   ^
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+11:45:15 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+In file included from ..\src\test_obj.cpp:9:0:
+..\src\exam.h:21:2: error: 'string' does not name a type
+  string getTime();
+  ^~~~~~
+11:45:20 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+In file included from ..\src\exam.cpp:8:0:
+..\src\exam.h:21:2: error: 'string' does not name a type
+  string getTime();
+  ^~~~~~
+..\src\exam.cpp: In member function 'void securityExample::test()':
+..\src\exam.cpp:17:18: error: 'getTime' was not declared in this scope
+  getTime(timeBuff);
+                  ^
+..\src\exam.cpp: At global scope:
+..\src\exam.cpp:21:1: error: 'string' does not name a type
+ string securityExample::getTime()
+ ^~~~~~
+11:45:24 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+In file included from ..\src\test_obj.cpp:9:0:
+..\src\exam.h:21:2: error: 'string' does not name a type
+  string getTime();
+  ^~~~~~
+11:45:44 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+In file included from ..\src\test_obj.cpp:9:0:
+..\src\exam.h:23:2: error: 'string' does not name a type
+  string getTime();
+  ^~~~~~
+11:46:10 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+In file included from ..\src\test_obj.cpp:9:0:
+..\src\exam.h:22:2: error: 'string' does not name a type
+  string getTime();
+  ^~~~~~
+11:46:42 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::test()':
+..\src\exam.cpp:18:25: warning: 'timeBuff' is used uninitialized in this function [-Wuninitialized]
+  printf("%c", timeBuff[0]);
+               ~~~~~~~~~~^
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+11:47:23 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::test()':
+..\src\exam.cpp:19:19: warning: 'timeBuff' is used uninitialized in this function [-Wuninitialized]
+  convert(timeBuff);
+                   ^
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+11:47:40 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::test()':
+..\src\exam.cpp:16:8: warning: unused variable 'timeBuff' [-Wunused-variable]
+  char* timeBuff;
+        ^~~~~~~~
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+11:48:17 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::test()':
+..\src\exam.cpp:20:24: warning: format '%s' expects argument of type 'char*', but argument 2 has type 'std::__cxx11::string* {aka std::__cxx11::basic_string<char>*}' [-Wformat=]
+  printf("%s", getTime());
+                        ^
+..\src\exam.cpp:20:24: warning: format '%s' expects argument of type 'char*', but argument 2 has type 'std::__cxx11::string* {aka std::__cxx11::basic_string<char>*}' [-Wformat=]
+..\src\exam.cpp:16:8: warning: unused variable 'timeBuff' [-Wunused-variable]
+  char* timeBuff;
+        ^~~~~~~~
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+11:49:46 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+In file included from ..\src\test_obj.cpp:9:0:
+..\src\exam.h:24:2: error: 'string' does not name a type
+  string getTime();
+  ^~~~~~
+11:50:20 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::test()':
+..\src\exam.cpp:20:24: warning: format '%s' expects argument of type 'char*', but argument 2 has type 'std::__cxx11::string* {aka std::__cxx11::basic_string<char>*}' [-Wformat=]
+  printf("%s", getTime());
+                        ^
+..\src\exam.cpp:20:24: warning: format '%s' expects argument of type 'char*', but argument 2 has type 'std::__cxx11::string* {aka std::__cxx11::basic_string<char>*}' [-Wformat=]
+..\src\exam.cpp:16:8: warning: unused variable 'timeBuff' [-Wunused-variable]
+  char* timeBuff;
+        ^~~~~~~~
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+11:54:23 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::test()':
+..\src\exam.cpp:20:23: error: no matching function for call to 'securityExample::getTime()'
+  printf("%s", getTime());
+                       ^
+In file included from ..\src\exam.cpp:8:0:
+..\src\exam.h:26:7: note: candidate: void securityExample::getTime(char*)
+  void getTime(char* buffer);
+       ^~~~~~~
+..\src\exam.h:26:7: note:   candidate expects 1 argument, 0 provided
+..\src\exam.cpp:16:8: warning: unused variable 'timeBuff' [-Wunused-variable]
+  char* timeBuff;
+        ^~~~~~~~
+..\src\exam.cpp: In member function 'void securityExample::getTime(char*)':
+..\src\exam.cpp:26:6: warning: unused variable 'n' [-Wunused-variable]
+  int n = time.length();
+      ^
+11:56:15 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+11:57:20 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::test()':
+..\src\exam.cpp:16:19: warning: 'timeBuff' is used uninitialized in this function [-Wuninitialized]
+  getTime(timeBuff);
+                   ^
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+11:58:45 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::test()':
+..\src\exam.cpp:15:18: error: no matching function for call to 'securityExample::getTime(char*&)'
+  getTime(timeBuff);
+                  ^
+In file included from ..\src\exam.cpp:8:0:
+..\src\exam.h:26:7: note: candidate: void securityExample::getTime()
+  void getTime();
+       ^~~~~~~
+..\src\exam.h:26:7: note:   candidate expects 0 arguments, 1 provided
+11:58:55 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+11:59:37 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::test()':
+..\src\exam.cpp:16:25: error: expected ')' before ';' token
+  printf("%c",timeBuff[0];
+                         ^
+11:59:45 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+12:00:56 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+12:01:27 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::test()':
+..\src\exam.cpp:16:22: warning: format '%c' expects argument of type 'int', but argument 2 has type 'char*' [-Wformat=]
+  printf("%c",timeBuff);
+                      ^
+..\src\exam.cpp:16:22: warning: format '%c' expects argument of type 'int', but argument 2 has type 'char*' [-Wformat=]
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+12:01:36 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+12:02:42 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+12:22:28 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+12:25:48 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+13:07:45 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+In file included from ..\src\exam.cpp:8:0:
+..\src\exam.h:29:6: error: extra qualification 'securityExample::' on member 'convertMonth' [-fpermissive]
+  int securityExample::convertMonth(char* month);
+      ^~~~~~~~~~~~~~~
+..\src\exam.cpp: In member function 'int securityExample::convertMonth(char*)':
+..\src\exam.cpp:57:28: error: no matching function for call to 'securityExample::strCompare(char*&, const char [4])'
+  if(strCompare(month, "Aug"))
+                            ^
+..\src\exam.cpp:45:6: note: candidate: bool securityExample::strCompare(char*, const char*, uint8_t)
+ bool securityExample::strCompare(char* str1,const char* str2, uint8_t length)
+      ^~~~~~~~~~~~~~~
+..\src\exam.cpp:45:6: note:   candidate expects 3 arguments, 2 provided
+..\src\exam.cpp:61:1: warning: no return statement in function returning non-void [-Wreturn-type]
+ }
+ ^
+13:08:04 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+In file included from ..\src\exam.cpp:8:0:
+..\src\exam.h:29:6: error: extra qualification 'securityExample::' on member 'convertMonth' [-fpermissive]
+  int securityExample::convertMonth(char* month);
+      ^~~~~~~~~~~~~~~
+13:08:49 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+In file included from ..\src\exam.cpp:8:0:
+..\src\exam.h:29:6: error: extra qualification 'securityExample::' on member 'convertMonth' [-fpermissive]
+  int securityExample::convertMonth(char* charMonth);
+      ^~~~~~~~~~~~~~~
+..\src\exam.cpp: In member function 'int securityExample::convertMonth(char*)':
+..\src\exam.cpp:57:16: error: 'month' was not declared in this scope
+  if(strCompare(month, "Aug",3))
+                ^~~~~
+13:09:01 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+In file included from ..\src\exam.cpp:8:0:
+..\src\exam.h:29:6: error: extra qualification 'securityExample::' on member 'convertMonth' [-fpermissive]
+  int securityExample::convertMonth(char* charMonth);
+      ^~~~~~~~~~~~~~~
+13:09:41 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+13:37:51 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::getTime()':
+..\src\exam.cpp:21:28: error: expression cannot be used as a function
+  time_t my_time = time(NULL);
+                            ^
+..\src\exam.cpp: In member function 'void securityExample::convert()':
+..\src\exam.cpp:34:23: error: invalid use of member 'int securityExample::convertMonth(char*)' (did you forget the '&' ?)
+            time[1] = (convertMonth/10)+48;
+                       ^~~~~~~~~~~~
+..\src\exam.cpp: In member function 'int securityExample::convertMonth(char*)':
+..\src\exam.cpp:101:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+13:38:11 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::getTime()':
+..\src\exam.cpp:21:28: error: expression cannot be used as a function
+  time_t my_time = time(NULL);
+                            ^
+..\src\exam.cpp: In member function 'int securityExample::convertMonth(char*)':
+..\src\exam.cpp:101:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+13:39:19 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::getTime()':
+..\src\exam.cpp:21:28: error: expression cannot be used as a function
+  time_t my_time = time(NULL);
+                            ^
+..\src\exam.cpp: In member function 'int securityExample::convertMonth(char*)':
+..\src\exam.cpp:101:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+13:40:30 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::getTime()':
+..\src\exam.cpp:21:28: error: expression cannot be used as a function
+  time_t my_time = time(NULL);
+                            ^
+..\src\exam.cpp: In member function 'int securityExample::convertMonth(char*)':
+..\src\exam.cpp:101:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+13:45:20 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::getTime()':
+..\src\exam.cpp:21:28: error: expression cannot be used as a function
+  time_t my_time = time(NULL);
+                            ^
+13:58:37 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+13:59:19 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+15:48:45 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+16:15:06 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+16:31:42 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::RCL(unsigned char*)':
+..\src\exam.cpp:53:10: warning: variable 'tempCF' set but not used [-Wunused-but-set-variable]
+  uint8_t tempCF = 0;
+          ^~~~~~
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+16:32:37 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::RCL(unsigned char*)':
+..\src\exam.cpp:53:10: warning: variable 'tempCF' set but not used [-Wunused-but-set-variable]
+  uint8_t tempCF = 0;
+          ^~~~~~
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+16:34:56 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::RCL(unsigned char*)':
+..\src\exam.cpp:53:22: error: redeclaration of 'uint8_t tempCF'
+  uint8_t tempCF = 0, tempCF = 0;
+                      ^~~~~~
+..\src\exam.cpp:53:10: note: 'uint8_t tempCF' previously declared here
+  uint8_t tempCF = 0, tempCF = 0;
+          ^~~~~~
+16:35:06 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::RCL(unsigned char*)':
+..\src\exam.cpp:53:22: warning: unused variable 'CF' [-Wunused-variable]
+  uint8_t tempCF = 0, CF = 0;
+                      ^~
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+16:35:28 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::RCL(unsigned char*)':
+..\src\exam.cpp:53:22: warning: variable 'CF' set but not used [-Wunused-but-set-variable]
+  uint8_t tempCF = 0, CF = 0;
+                      ^~
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+16:38:17 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::RCL(unsigned char*)':
+..\src\exam.cpp:53:22: warning: variable 'CF' set but not used [-Wunused-but-set-variable]
+  uint8_t tempCF = 0, CF = 0;
+                      ^~
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+16:39:01 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+In file included from ..\src\exam.cpp:8:0:
+..\src\exam.h:32:14: error: expected unqualified-id before numeric constant
+  #define RCL 0x00;
+              ^
+..\src\exam.h:38:7: note: in expansion of macro 'RCL'
+  void RCL(unsigned char* num);
+       ^~~
+..\src\exam.h:38:11: error: expected unqualified-id before 'unsigned'
+  void RCL(unsigned char* num);
+           ^~~~~~~~
+..\src\exam.h:38:11: error: expected ')' before 'unsigned'
+..\src\exam.h:32:14: error: expected unqualified-id before numeric constant
+  #define RCL 0x00;
+              ^
+..\src\exam.cpp:50:23: note: in expansion of macro 'RCL'
+ void securityExample::RCL(unsigned char* num)
+                       ^~~
+..\src\exam.cpp:50:27: error: expected unqualified-id before 'unsigned'
+ void securityExample::RCL(unsigned char* num)
+                           ^~~~~~~~
+..\src\exam.cpp:50:27: error: expected ')' before 'unsigned'
+16:40:01 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::Rotate(unsigned char*)':
+..\src\exam.cpp:53:22: warning: variable 'CF' set but not used [-Wunused-but-set-variable]
+  uint8_t tempCF = 0, CF = 0;
+                      ^~
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+16:44:27 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp:50:6: error: prototype for 'void securityExample::Rotate(unsigned char*, uint8_t, uint8_t)' does not match any in class 'securityExample'
+ void securityExample::Rotate(unsigned char* inputNumber, uint8_t rotationMethod, uint8_t timeShift )
+      ^~~~~~~~~~~~~~~
+In file included from ..\src\exam.cpp:8:0:
+..\src\exam.h:38:7: error: candidate is: void securityExample::Rotate(unsigned char*)
+  void Rotate(unsigned char* inputNumber);
+       ^~~~~~
+16:45:09 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp:50:100: error: declaration of 'void securityExample::Rotate(unsigned char*, uint8_t, uint8_t)' outside of class is not definition [-fpermissive]
+ void securityExample::Rotate(unsigned char* inputNumber, uint8_t rotationMethod, uint8_t timeShift );
+                                                                                                    ^
+..\src\exam.cpp:51:1: error: expected unqualified-id before '{' token
+ {
+ ^
+16:45:58 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::Rotate(unsigned char*, uint8_t, uint8_t)':
+..\src\exam.cpp:52:22: warning: variable 'CF' set but not used [-Wunused-but-set-variable]
+  uint8_t tempCF = 0, CF = 0;
+                      ^~
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+17:04:38 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::Rotate(unsigned char*, uint8_t, uint8_t)':
+..\src\exam.cpp:54:10: warning: variable 'OF' set but not used [-Wunused-but-set-variable]
+  uint8_t OF = 0xff;
+          ^~
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+17:05:26 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::Rotate(unsigned char*, uint8_t, uint8_t)':
+..\src\exam.cpp:66:1: error: expected ';' before '}' token
+ }
+ ^
+17:05:32 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::Rotate(unsigned char*, uint8_t, uint8_t)':
+..\src\exam.cpp:54:10: warning: variable 'OF' set but not used [-Wunused-but-set-variable]
+  uint8_t OF = 0xff;
+          ^~
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+17:06:03 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::Rotate(unsigned char*, uint8_t, uint8_t)':
+..\src\exam.cpp:54:10: warning: variable 'OF' set but not used [-Wunused-but-set-variable]
+  uint8_t OF;
+          ^~
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+17:18:28 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::test()':
+..\src\exam.cpp:19:16: error: invalid conversion from 'uint8_t {aka unsigned char}' to 'unsigned char*' [-fpermissive]
+  Rotate(num,1,1);
+                ^
+In file included from ..\src\exam.cpp:8:0:
+..\src\exam.h:38:7: note:   initializing argument 1 of 'void securityExample::Rotate(unsigned char*, uint8_t, uint8_t)'
+  void Rotate(unsigned char* inputNumber, uint8_t rotationMethod, uint8_t timeShift);
+       ^~~~~~
+17:19:08 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::test()':
+..\src\exam.cpp:19:16: error: invalid conversion from 'unsigned char' to 'unsigned char*' [-fpermissive]
+  Rotate(num,1,1);
+                ^
+In file included from ..\src\exam.cpp:8:0:
+..\src\exam.h:38:7: note:   initializing argument 1 of 'void securityExample::Rotate(unsigned char*, uint8_t, uint8_t)'
+  void Rotate(unsigned char* inputNumber, uint8_t rotationMethod, uint8_t timeShift);
+       ^~~~~~
+17:19:28 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::Rotate(unsigned char*, uint8_t, uint8_t)':
+..\src\exam.cpp:56:10: warning: variable 'OF' set but not used [-Wunused-but-set-variable]
+  uint8_t OF;
+          ^~
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+17:20:02 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::test()':
+..\src\exam.cpp:20:21: warning: conversion lacks type at end of format [-Wformat=]
+  printf("%h", num[0]);
+                     ^
+..\src\exam.cpp:20:21: warning: too many arguments for format [-Wformat-extra-args]
+..\src\exam.cpp:20:21: warning: conversion lacks type at end of format [-Wformat=]
+..\src\exam.cpp:20:21: warning: too many arguments for format [-Wformat-extra-args]
+..\src\exam.cpp: In member function 'void securityExample::Rotate(unsigned char*, uint8_t, uint8_t)':
+..\src\exam.cpp:57:10: warning: variable 'OF' set but not used [-Wunused-but-set-variable]
+  uint8_t OF;
+          ^~
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+17:20:14 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::Rotate(unsigned char*, uint8_t, uint8_t)':
+..\src\exam.cpp:57:10: warning: variable 'OF' set but not used [-Wunused-but-set-variable]
+  uint8_t OF;
+          ^~
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+17:21:32 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::Rotate(unsigned char*, uint8_t, uint8_t)':
+..\src\exam.cpp:57:10: warning: variable 'OF' set but not used [-Wunused-but-set-variable]
+  uint8_t OF;
+          ^~
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+17:39:45 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::Rotate(unsigned char*, uint8_t, uint8_t)':
+..\src\exam.cpp:57:10: warning: variable 'OF' set but not used [-Wunused-but-set-variable]
+  uint8_t OF;
+          ^~
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+18:19:11 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+In file included from ..\src\exam.cpp:8:0:
+..\src\exam.cpp: In member function 'void securityExample::Rotate(unsigned char*, uint8_t, uint8_t)':
+..\src\exam.h:32:18: error: expected ':' before ';' token
+  #define RCL 0x00;
+                  ^
+..\src\exam.cpp:61:8: note: in expansion of macro 'RCL'
+   case RCL:
+        ^~~
+..\src\exam.cpp:61:11: error: expected primary-expression before ':' token
+   case RCL:
+           ^
+In file included from ..\src\exam.cpp:8:0:
+..\src\exam.h:33:18: error: expected ':' before ';' token
+  #define RCR 0x01;
+                  ^
+..\src\exam.cpp:75:8: note: in expansion of macro 'RCR'
+   case RCR:
+        ^~~
+..\src\exam.cpp:75:11: error: expected primary-expression before ':' token
+   case RCR:
+           ^
+..\src\exam.cpp:55:10: warning: unused variable 'tempCount' [-Wunused-variable]
+  uint8_t tempCount = timeShift % 9;
+          ^~~~~~~~~
+..\src\exam.cpp:56:10: warning: unused variable 'tempCF' [-Wunused-variable]
+  uint8_t tempCF = 0, CF = 0;
+          ^~~~~~
+18:20:25 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+In file included from ..\src\exam.cpp:8:0:
+..\src\exam.cpp: In member function 'void securityExample::Rotate(unsigned char*, uint8_t, uint8_t)':
+..\src\exam.h:32:18: error: expected ':' before ';' token
+  #define RCL 0x00;
+                  ^
+..\src\exam.cpp:61:8: note: in expansion of macro 'RCL'
+   case RCL:
+        ^~~
+..\src\exam.cpp:61:11: error: expected primary-expression before ':' token
+   case RCL:
+           ^
+In file included from ..\src\exam.cpp:8:0:
+..\src\exam.h:33:18: error: expected ':' before ';' token
+  #define RCR 0x01;
+                  ^
+..\src\exam.cpp:75:8: note: in expansion of macro 'RCR'
+   case RCR:
+        ^~~
+..\src\exam.cpp:75:11: error: expected primary-expression before ':' token
+   case RCR:
+           ^
+..\src\exam.cpp:55:10: warning: unused variable 'tempCount' [-Wunused-variable]
+  uint8_t tempCount = timeShift % 9;
+          ^~~~~~~~~
+..\src\exam.cpp:56:10: warning: unused variable 'tempCF' [-Wunused-variable]
+  uint8_t tempCF = 0, CF = 0;
+          ^~~~~~
+18:21:38 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::Rotate(unsigned char*, uint8_t, uint8_t)':
+..\src\exam.cpp:57:10: warning: variable 'OF' set but not used [-Wunused-but-set-variable]
+  uint8_t OF;
+          ^~
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+18:22:24 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::Rotate(unsigned char*, uint8_t, uint8_t)':
+..\src\exam.cpp:57:10: warning: variable 'OF' set but not used [-Wunused-but-set-variable]
+  uint8_t OF;
+          ^~
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+19:28:29 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::Rotate(unsigned char*, uint8_t, uint8_t)':
+..\src\exam.cpp:57:10: warning: variable 'OF' set but not used [-Wunused-but-set-variable]
+  uint8_t OF;
+          ^~
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+19:29:37 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::Rotate(unsigned char*, uint8_t, uint8_t)':
+..\src\exam.cpp:57:10: warning: variable 'OF' set but not used [-Wunused-but-set-variable]
+  uint8_t OF;
+          ^~
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+19:35:38 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::Rotate(unsigned char*, uint8_t, uint8_t)':
+..\src\exam.cpp:57:10: warning: variable 'OF' set but not used [-Wunused-but-set-variable]
+  uint8_t OF;
+          ^~
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+19:36:57 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::Rotate(unsigned char*, uint8_t, uint8_t)':
+..\src\exam.cpp:57:10: warning: variable 'OF' set but not used [-Wunused-but-set-variable]
+  uint8_t OF;
+          ^~
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+19:38:07 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::Rotate(unsigned char*, uint8_t, uint8_t)':
+..\src\exam.cpp:57:10: warning: variable 'OF' set but not used [-Wunused-but-set-variable]
+  uint8_t OF;
+          ^~
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+20:34:07 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::Rotate(unsigned char*, uint8_t, uint8_t)':
+..\src\exam.cpp:57:10: warning: variable 'OF' set but not used [-Wunused-but-set-variable]
+  uint8_t OF;
+          ^~
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+20:48:10 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::Rotate(unsigned char*, uint8_t, uint8_t)':
+..\src\exam.cpp:57:10: warning: variable 'OF' set but not used [-Wunused-but-set-variable]
+  uint8_t OF;
+          ^~
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+21:06:05 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::Rotate(unsigned char*, uint8_t, uint8_t)':
+..\src\exam.cpp:66:36: warning: suggest parentheses around '+' inside '<<' [-Wparentheses]
+     destination = destination << 1 + CF;
+                                  ~~^~~~
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+21:06:26 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+21:06:51 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+21:09:28 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+21:10:29 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+21:11:00 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+21:11:29 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+21:17:21 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp: In member function 'void securityExample::test()':
+..\src\exam.cpp:19:18: error: no matching function for call to 'securityExample::Rotate(uint8_t [1], int, int)'
+  Rotate(num,ROL,8);
+                  ^
+In file included from ..\src\exam.cpp:8:0:
+..\src\exam.h:38:7: note: candidate: void securityExample::Rotate(unsigned char*, uint8_t, uint8_t, bool, bool)
+  void Rotate(unsigned char* inputNumber, uint8_t rotationMethod, uint8_t timeShift, bool CF_flag, bool OF_flag);
+       ^~~~~~
+..\src\exam.h:38:7: note:   candidate expects 5 arguments, 3 provided
+..\src\exam.cpp:20:18: error: no matching function for call to 'securityExample::Rotate(uint8_t [1], int, int)'
+  Rotate(num,ROR,8);
+                  ^
+In file included from ..\src\exam.cpp:8:0:
+..\src\exam.h:38:7: note: candidate: void securityExample::Rotate(unsigned char*, uint8_t, uint8_t, bool, bool)
+  void Rotate(unsigned char* inputNumber, uint8_t rotationMethod, uint8_t timeShift, bool CF_flag, bool OF_flag);
+       ^~~~~~
+..\src\exam.h:38:7: note:   candidate expects 5 arguments, 3 provided
+21:22:18 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+22:00:36 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp:13:6: error: prototype for 'void securityExample::test(uint8_t*, uint8_t*)' does not match any in class 'securityExample'
+ void securityExample::test(uint8_t* Key, uint8_t* Seed)
+      ^~~~~~~~~~~~~~~
+In file included from ..\src\exam.cpp:8:0:
+..\src\exam.h:31:7: error: candidate is: void securityExample::test()
+  void test(void);
+       ^~~~
+22:04:16 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+..\src\exam.cpp:13:6: error: prototype for 'void securityExample::CreateKey(uint8_t*, uint8_t*)' does not match any in class 'securityExample'
+ void securityExample::CreateKey(uint8_t* Key, uint8_t* Seed)
+      ^~~~~~~~~~~~~~~
+In file included from ..\src\exam.cpp:8:0:
+..\src\exam.h:31:7: error: candidate is: void securityExample::CreateKey()
+  void CreateKey(void);
+       ^~~~~~~~~
+22:04:29 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+..\src\test_obj.cpp: In function 'int main()':
+..\src\test_obj.cpp:22:26: error: no matching function for call to 'securityExample::CreateKey(uint8_t [4], uint8_t [4])'
+  code.CreateKey(key, seed);
+                          ^
+In file included from ..\src\test_obj.cpp:9:0:
+..\src\exam.h:31:7: note: candidate: void securityExample::CreateKey()
+  void CreateKey(void);
+       ^~~~~~~~~
+..\src\exam.h:31:7: note:   candidate expects 0 arguments, 2 provided
+22:04:49 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exam.o" "..\\src\\exam.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+22:07:15 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+22:07:40 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+22:34:57 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 

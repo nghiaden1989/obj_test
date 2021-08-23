@@ -1,0 +1,23 @@
+/*
+ * exam.h
+ *
+ *  Created on: Aug 23, 2021
+ *      Author: HOO5HC
+ */
+
+#ifndef EXAM_H_
+#define EXAM_H_
+#include <stdio.h>
+#include <conio.h>
+void Say(const char* message);
+
+class codingExample
+{
+public:
+
+private:
+	void convert(char* inputString);
+protected:
+};
+
+#endif /* EXAM_H_ */

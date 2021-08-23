@@ -1,0 +1,18 @@
+//============================================================================
+// Name        : test_obj.cpp
+// Author      : Sy hoang
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+#include <iostream>
+#include "exam.h"
+
+
+using namespace std;
+
+int main() {
+	cout << "!!!Hello World111!!!" << endl; // prints !!!Hello World!!!
+	Say("ccasdasd");
+	return 0;
+}

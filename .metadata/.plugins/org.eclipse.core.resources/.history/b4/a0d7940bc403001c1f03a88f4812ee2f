@@ -1,0 +1,25 @@
+//============================================================================
+// Name        : test_obj.cpp
+// Author      : Sy hoang
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+#include <iostream>
+#include "exam.h"
+#include <time.h>
+#include <stdlib.h>
+
+#include <chrono>
+#include <ctime>
+using namespace std;
+
+int main() {
+
+	time_t my_time = time(NULL);
+
+	    // ctime() used to give the present time
+	    printf("%s", ctime(&my_time));
+	    return 0;
+	return 0;
+}

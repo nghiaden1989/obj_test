@@ -1,0 +1,19 @@
+/*
+ * exam.cpp
+ *
+ *  Created on: Aug 23, 2021
+ *      Author: HOO5HC
+ */
+
+#include "exam.h"
+void Say(const char* message)
+{
+	printf(message);
+}
+
+void securityExample::convert(string inputString)
+{
+	time_t my_time = time(NULL);
+	printf("%s", ctime(&my_time));
+}
+

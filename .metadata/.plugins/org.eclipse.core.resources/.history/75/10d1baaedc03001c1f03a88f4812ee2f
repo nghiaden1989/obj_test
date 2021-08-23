@@ -1,0 +1,102 @@
+/*
+ * exam.cpp
+ *
+ *  Created on: Aug 23, 2021
+ *      Author: HOO5HC
+ */
+
+#include "exam.h"
+void Say(const char* message)
+{
+	printf(message);
+}
+void securityExample::test(void)
+{
+	getTime();
+	//printf("%s",timeBuff);
+	convert();
+}
+void securityExample::getTime()
+{
+	time_t my_time = time(NULL);
+	timeBuff = ctime(&my_time);
+}
+void securityExample::convert()
+{
+	int stt = 0;
+	char *token = strtok(timeBuff," :");
+	while (token != NULL)
+	    {
+	        printf("%s\n", token);
+	        switch(stt)
+	        {
+	        	case 1:
+	        		time[1] = (convertMonth/10)+48;
+	        		break;
+	        	case 2:
+	        		time[2] = token[1];
+	        	case 3:
+	        		time[3] = token[0];
+	        	case 6:
+	        		time[0] = token[3];
+	        }
+	        token = strtok(NULL, " :");
+	        stt++;
+	    }
+	printf("%s\n", time);
+}
+
+
+// helper
+
+bool securityExample::strCompare(char* str1,const char* str2, uint8_t length)
+{
+	for(int i = 0; i< length; i++)
+	{
+		if(str1[i] != str2[i])
+			return false;
+	}
+	return true;
+}
+
+int securityExample::convertMonth(char* month)
+{
+	if(strCompare(month, "Jan",3))
+	{
+		return 1;
+	} else if(strCompare(month, "Feb",3))
+	{
+		return 2;
+	} else if(strCompare(month, "Mar",3))
+	{
+		return 3;
+	} else if(strCompare(month, "Apr",3))
+	{
+		return 4;
+	} else if(strCompare(month, "May",3))
+	{
+		return 5;
+	} else if(strCompare(month, "Jun",3))
+	{
+		return 6;
+	} else if(strCompare(month, "Jul",3))
+	{
+		return 7;
+	} else if(strCompare(month, "Aug",3))
+	{
+		return 8;
+	} else if(strCompare(month, "Sep",3))
+	{
+		return 9;
+	} else if(strCompare(month, "Oct",3))
+	{
+		return 10;
+	} else if(strCompare(month, "Nov",3))
+	{
+		return 11;
+	} else if(strCompare(month, "Dec",3))
+	{
+		return 12;
+	}
+}
+

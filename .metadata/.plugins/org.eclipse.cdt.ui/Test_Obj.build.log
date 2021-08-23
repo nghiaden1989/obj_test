@@ -1,0 +1,7 @@
+22:34:57 **** Incremental Build of configuration Debug for project test_obj ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test_obj.o" "..\\src\\test_obj.cpp" 
+g++ -o test_obj.exe "src\\exam.o" "src\\test_obj.o" 
+
+22:34:57 Build Finished. 0 errors, 0 warnings. (took 442ms)
+

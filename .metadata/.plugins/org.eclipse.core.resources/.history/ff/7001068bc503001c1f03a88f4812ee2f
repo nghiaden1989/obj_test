@@ -1,0 +1,18 @@
+/*
+ * exam.cpp
+ *
+ *  Created on: Aug 23, 2021
+ *      Author: HOO5HC
+ */
+
+#include "exam.h"
+void Say(const char* message)
+{
+	printf(message);
+}
+
+void securityExample::convert(char* inputString)
+{
+
+}
+

@@ -1,0 +1,33 @@
+/*
+ * exam.h
+ *
+ *  Created on: Aug 23, 2021
+ *      Author: HOO5HC
+ */
+
+#ifndef EXAM_H_
+#define EXAM_H_
+#include <stdio.h>
+#include <iostream>
+#include <sstream>
+#include <string>
+#include <time.h>
+#include "string.h"
+
+using namespace std;
+
+void Say(const char* message);
+
+class securityExample
+{
+public:
+	void test(void);
+private:
+	void getTime();
+	void convert();
+	bool strCompare(char* str1, char* str2, uint8_t length);
+protected:
+	char* timeBuff;
+};
+
+#endif /* EXAM_H_ */

@@ -1,0 +1,26 @@
+/*
+ * exam.h
+ *
+ *  Created on: Aug 23, 2021
+ *      Author: HOO5HC
+ */
+
+#ifndef EXAM_H_
+#define EXAM_H_
+#include <stdio.h>
+#include <iostream>
+#include <time.h>
+#include "string.h"
+void Say(const char* message);
+
+class securityExample
+{
+public:
+	void convert(char* inputString);
+private:
+
+	char* getTime(void);
+protected:
+};
+
+#endif /* EXAM_H_ */

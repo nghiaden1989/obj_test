@@ -1,0 +1,32 @@
+//============================================================================
+// Name        : test_obj.cpp
+// Author      : Sy hoang
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+#include <iostream>
+#include "exam.h"
+
+using namespace std;
+
+securityExample code;
+
+int main() {
+
+	//code.convert("Mon-Aug-23-10:40:38-2021");
+
+	char str[] = "Mon-Aug-23-10:40:38-2021";
+
+	    // Returns first token
+	    char *token = strtok(str, "-");
+
+	    // Keep printing tokens while one of the
+	    // delimiters present in str[].
+	    while (token != NULL)
+	    {
+	        printf("%s\n", token);
+	        token = strtok(NULL, "-");
+	    }
+	return 0;
+}

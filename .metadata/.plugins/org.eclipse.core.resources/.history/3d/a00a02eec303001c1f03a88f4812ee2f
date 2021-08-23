@@ -1,0 +1,24 @@
+//============================================================================
+// Name        : test_obj.cpp
+// Author      : Sy hoang
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+#include <iostream>
+#include "exam.h"
+#include <time.h>
+#include <stdlib.h>
+
+#include <chrono>
+#include <ctime>
+using namespace std;
+
+int main() {
+
+	auto timenow =
+	      chrono::system_clock::to_time_t(chrono::system_clock::now());
+
+	    cout << ctime(&timenow) << endl;
+	return 0;
+}

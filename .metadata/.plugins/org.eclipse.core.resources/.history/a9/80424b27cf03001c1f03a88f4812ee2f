@@ -1,0 +1,35 @@
+/*
+ * exam.cpp
+ *
+ *  Created on: Aug 23, 2021
+ *      Author: HOO5HC
+ */
+
+#include "exam.h"
+void Say(const char* message)
+{
+	printf(message);
+}
+void securityExample::test(void)
+{
+	getTime();
+	printf("%c",timeBuff[0]);
+}
+void securityExample::getTime()
+{
+	time_t my_time = time(NULL);
+	timeBuff = ctime(&my_time);
+	//string time = ctime(&my_time);
+	//strcpy(timeBuff, time.c_str());
+}
+void securityExample::convert(char* inputString)
+{
+	//char str[] = "Mon Aug 23 10:40:38 2021";
+	char *token = strtok(inputString," ");
+	while (token != NULL)
+	    {
+	        printf("%s\n", token);
+	        token = strtok(NULL, " ");
+	    }
+}
+

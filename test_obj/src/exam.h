@@ -22,12 +22,13 @@ void Say(const char* message);
 typedef struct RotateFlag
 {
 	bool CF_Flag;
-	bool OF_flag;
+	bool OF_Flag;
 } RotateFlag;
 
 class securityExample
 {
 public:
+	void test(void);
 	void CreateKey(uint8_t* Key, uint8_t* Seed);
 private:
 	void getTime();

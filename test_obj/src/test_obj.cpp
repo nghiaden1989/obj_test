@@ -11,18 +11,17 @@
 using namespace std;
 
 securityExample code;
-uint8_t key[4] = {1,2,3,4};
-uint8_t seed[4] = {4,5,2,1};
+uint8_t key[4];
+uint8_t seed[4] = {4,5,12,5};
 int main() {
-
-	//code.convert("Mon-Aug-23-10:40:38-2021");
-
-	//char str[] = "Mon-Aug-23-10:40:38-2021";
-	//code.convert("Mon-Aug-23-10:40:38-2021");
+	/*
 	code.CreateKey(key, seed);
-	printf("%d\n", key[0]);
-	printf("%d\n", key[1]);
-	printf("%d\n", key[2]);
-	printf("%d\n", key[3]);
+	printf("%x\n", key[0]);
+	printf("%x\n", key[1]);
+	printf("%x\n", key[2]);
+	printf("%x\n", key[3]);
+	*/
+	code.test();
 	return 0;
 }
+

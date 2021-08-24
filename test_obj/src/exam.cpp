@@ -10,6 +10,22 @@ void Say(const char* message)
 {
 	printf(message);
 }
+void securityExample::test(void)
+{
+	uint8_t num[1] = {0x68};
+	RotateFlag flag;
+	flag = Rotate(num,ROL, 2);
+	printf("\n");
+	printf("=======================================================\n");
+	getTime();
+	printf("--%s",timeBuff);
+	printf("--Value of number after rotation: 0x%x\n", num[0]);
+	printf("------------------------ CF flag: %d\n", flag.CF_Flag);
+	printf("------------------------ OF flag: %d\n", flag.OF_Flag);
+	printf("=======================================================\n");
+	printf("\n");
+}
+
 void securityExample::CreateKey(uint8_t* Key, uint8_t* Seed)
 {
 	getTime();
@@ -62,6 +78,7 @@ void securityExample::RotateTimeBuffer(void)
 
 
 /* Security */
+
 RotateFlag securityExample::Rotate(unsigned char* inputNumber, uint8_t rotationMethod, uint8_t timeShift)
 {
 	uint8_t tempCount;
@@ -131,7 +148,7 @@ RotateFlag securityExample::Rotate(unsigned char* inputNumber, uint8_t rotationM
 				OF = 0xff;
 			*inputNumber = destination;
 	}
-	flag.OF_flag = (OF == 0)? false:true;
+	flag.OF_Flag = (OF == 0)? false:true;
 	flag.CF_Flag = (CF == 0)? false:true;
 	return flag;
 }
